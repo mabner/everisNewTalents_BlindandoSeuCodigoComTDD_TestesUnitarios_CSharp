@@ -1,4 +1,4 @@
-﻿namespace Calculadora
+﻿namespace CodeCalculadora
 {
     internal class Program
     {
